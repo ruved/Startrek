@@ -1,0 +1,38 @@
+.header
+{
+width:1350px;
+height:60px;
+font-size: 25px;
+text-align: center;
+color:blue;
+font-weight: 2px;
+background-color: #aaaaaa;
+padding-top: 20px;
+}
+.menu{
+	background-color: lightgreen;
+	width: 1350px;
+	height: 30px;
+	list-style: none;
+	font-size: 19px;
+	font-family: bold;
+	text-decoration-style: none;
+
+
+
+
+}
+.main{
+	margin-top: 10px;
+text-align: center;
+}
+div.main input{
+	width: 500px;
+	height: 20px;
+
+}
+div.main button
+{
+width: 100px;
+height: 30px;
+}
